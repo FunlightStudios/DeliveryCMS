@@ -1,4 +1,9 @@
 # DeliveryCMS pre_beta1
+
+# ⚠️ Work in Progress
+This project is under active development and not production-ready yet.
+
+
 ### [DEUTSCH]
 Die DeliveryCMS wird speziell für logistik Unternehmen erstellt, es wird ein vollständig Webbasiertes Tool zur Verwaltung von Kunden, Lieferungen und Produkte.
 Zusätzlich dazu wird es ein vollständiges Lagersystem geben um übersichtlich Inventar zu führen und ausserdem Produkte für die Lieferung aus einzelnen Items zusammenzustellen.
